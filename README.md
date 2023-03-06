@@ -6,3 +6,6 @@ Events handling: To implement this event schedule, we created a ScheduleTemplate
 When the user selects an event, Ajax is used to load the content of the event just selected (its data-content is used to determine the file content to be loaded).
 In addition to that, on big devices, the .cd-schedule-modal is animated to show the event content.
 First, the .cd-schedule-modal is placed on top of the selected event and its height and width are changed to be equal to the ones of the selected event; then the .cd-schedule-modal__header-bg and .cd-schedule-modal__body-bg elements are scaled up to create the morphing animation; at the end of this animation, the modal content is revealed.
+
+
+-Maithri S
